@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Csv {
-	//うんこうんこうんこ
+
 	try {
 	private static final String FILE_NAME = "C:\\Users\\ito11\\デスクトップ\\git_clone_port\\zzz\\test_utf8.csv";
 	}catch(ClassNotFoundException e) {
